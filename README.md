@@ -13,3 +13,4 @@
 
  1. SE Discord Suite (Node.js Threaded Multitool)
  2. 16 Shop Down
+ 3. VZBRU1.0.0A
